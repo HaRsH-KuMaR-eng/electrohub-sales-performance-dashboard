@@ -1,7 +1,7 @@
 # 📊 ElectroHub Retail Sales Analytics | End-to-End Power BI & Data Engineering Project
 
 <p align="center">
-<img src="Images/dashboard1.png" width="900">
+<img src="https://github.com/HaRsH-KuMaR-eng/electrohub-sales-performance-dashboard/blob/5b94c272bfc4c3e38ba1cec18e25d6d3b7ebd8c6/image1.png" width="900">
 </p>
 
 <p align="center">
@@ -277,33 +277,37 @@ Available Metrics
 
 # 📸 Dashboard Preview
 
-## Executive Dashboard
+---
 
-![Dashboard](Images/dashboard1.png)
+## 📊 Overview Dashboard
+
+![Overview Dashboard](https://github.com/HaRsH-KuMaR-eng/electrohub-sales-performance-dashboard/blob/5b94c272bfc4c3e38ba1cec18e25d6d3b7ebd8c6/image1.png)
 
 ---
 
-## Product Analytics
+## 📈 Top/Bottom 5 Analysis
 
-![Dashboard](Images/dashboard2.png)
-
----
-
-## Date Comparison
-
-![Dashboard](Images/dashboard3.png)
+![Top & Bottom 5 Analysis](https://github.com/HaRsH-KuMaR-eng/electrohub-sales-performance-dashboard/blob/5b94c272bfc4c3e38ba1cec18e25d6d3b7ebd8c6/image2.png)
 
 ---
 
-## KPI Comparison
+## 📅 Comparison Sales / Profit Dashboard
 
-![Dashboard](Images/dashboard4.png)
+![Comparison Sales / Profit Dashboard](https://github.com/HaRsH-KuMaR-eng/electrohub-sales-performance-dashboard/blob/5b94c272bfc4c3e38ba1cec18e25d6d3b7ebd8c6/image3.png)
 
 ---
 
-## Detailed Report
+## 🎛️ Edit Interaction Dashboard
 
-![Dashboard](Images/dashboard5.png)
+![Edit Interaction Dashboard](https://github.com/HaRsH-KuMaR-eng/electrohub-sales-performance-dashboard/blob/5b94c272bfc4c3e38ba1cec18e25d6d3b7ebd8c6/image4.png)
+
+---
+
+## 📋 Table Visual Dashboard
+
+![Table Visual Dashboard](https://github.com/HaRsH-KuMaR-eng/electrohub-sales-performance-dashboard/blob/5b94c272bfc4c3e38ba1cec18e25d6d3b7ebd8c6/image5.png)
+
+---
 
 ---
 
@@ -358,36 +362,6 @@ Live Dashboard
 - Optimize pricing strategy
 - Improve inventory planning
 
----
-
-# 📁 Repository Structure
-
-```
-ElectroHub-Sales-Analytics
-│
-├── Dashboard
-│      └── ElectroHub.pbix
-│
-├── Dataset
-│      ├── Orders.csv
-│      ├── Customers.csv
-│      ├── Products.csv
-│      └── Promotions.csv
-│
-├── SQL
-│      ├── Database.sql
-│      ├── Tables.sql
-│      └── Queries.sql
-│
-├── Images
-│      ├── dashboard1.png
-│      ├── dashboard2.png
-│      ├── dashboard3.png
-│      ├── dashboard4.png
-│      └── dashboard5.png
-│
-└── README.md
-```
 
 ---
 
@@ -426,5 +400,3 @@ ElectroHub-Sales-Analytics
 - Data Engineering
 
 ---
-
-## ⭐ If you found this project useful, consider giving it a Star.
